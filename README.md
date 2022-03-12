@@ -11,6 +11,10 @@ Been working on with various platforms such as: **Node.js, Django, Express, Elec
 
 🔭 I’m currently working on **a quiz/test organizer** which will be a handy tool in your upcoming tests, or quizzes! (Reviewing stuffs, probably)... 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiquidRekto&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+![LiquidRekto's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiquidRekto&show_icons=true&theme=radical)
+
 <!--
 **LiquidRekto/LiquidRekto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
