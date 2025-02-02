@@ -1,8 +1,6 @@
-### 🥓 WASSUP GUYS! 🥓
-# And welcome to my Github Lair!
-(For those who ask, [Lidwell](https://twitter.com/teru_clouds) is the creator for my profile pic.)
+# Welcome to my Github Lair!
 
-You can call me with my GitHub username or simply, Bacon for short.
+You can call me with my GitHub username.
 
 Have been coding with **Passion** for so many years.
 
